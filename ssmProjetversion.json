@@ -3,5 +3,4 @@
   "description" : "Released on 05 - 11 - 2024 by Abderrahman Haoudi",
   "changes-en": "Implémentez une vérification automatique de la dernière version de SSM au lancement de l'application. Si une nouvelle version est disponible, affichez une notification clignotante dans la barre d'outils pendant 30 secondes, avec un lien vers drive pour télécharger la dernière version.",
   "changes-fr" : "Implement an automatic check for the latest SSM version on startup. If a new version is available, display and flashing notification in the toolBar for 30 seconds, including a link to download the latest version from drive."
-
 }
